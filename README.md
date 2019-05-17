@@ -32,13 +32,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+The Documnet object model is a API for the structure of HTML and XML documents
+
 2. What is an event?
+
+Something that either the user or the browser does, such as moving mouse, or loading page
 
 3. What is an event listener?
 
+A block of code that is waiting for a event to happen
+
 4. Why would we convert a NodeList into an Array?
 
+TO be able to manipulate it easier and more logically in Javascript
+
 5. What is a component?
+
+Custom made reusable elements which are seperate from main HTML code 
 
 ### Git Set up
 
